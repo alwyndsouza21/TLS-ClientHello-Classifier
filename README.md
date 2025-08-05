@@ -17,7 +17,7 @@ There are three main modules, if you have the data ready. the first part is proc
 
 Take a look at a simple block diagram that provides a abstract view of the complete project pipeline right from data generation to inference 👇🏼.
 
-![Block Diagram](/main/proposed_architecture.jpg)
+![Block Diagram](/proposed_architecture.jpg)
 
 - Alwyn D Souza
 
