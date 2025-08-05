@@ -1,5 +1,5 @@
 # TLS-ClientHello-Classifier
-What it is in short->" A TLS-ClientHello packet classifier, where the features are enriched using GraphSAGE, before classification using a quite simple two layered neural network.", in case of any doubts feel free to reach out to me at [alwyn14120@gmail.com](mailot:alwyn14120@gmail.com).
+What it is in short->" A TLS-ClientHello packet classifier, where the features are enriched using GraphSAGE, before classification using a quite simple two layered neural network.", in case of any doubts feel free to reach out to me at [alwyn14120@gmail.com](mailto:alwyn14120@gmail.com).
 
 Hi Friend, hope you are having a great day, i am happy that you have stopped by to read this!.
 
@@ -17,9 +17,7 @@ There are three main modules, if you have the data ready. the first part is proc
 
 Take a look at a simple block diagram that provides a abstract view of the complete project pipeline right from data generation to inference 👇🏼.
 
-![Block Diagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hotstar.com%2Fin%2Fshows%2Fmr-bean%2F1971308273&psig=AOvVaw1QfPsxWQjMeP33F8J5VenL&ust=1754463139548000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCCvtOK844DFQAAAAAdAAAAABAE)
-
-Feel free to tweak the code and boost the robustness of the approach!
+![Block Diagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hotstar.com%2Fin%2Fshows%2Fmr-https://github.com/alwyndsouza21/TLS-ClientHello-Classifier/blob/main/proposed_architecture.jpg)
 
 - Alwyn D Souza
 
